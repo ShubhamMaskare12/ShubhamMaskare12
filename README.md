@@ -22,4 +22,4 @@ Frontend Developer and AI/ML enthusiast focused on building responsive React.js 
 Frontend Development • Data Analytics • AI/ML • UI/UX • Startup Technology
 
 ## Connect With Me
-- Email: maskareshubham@gmail.com
+- Email: maskareshubhamm@gmail.com
