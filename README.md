@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shubham Maskare 👋
 
-<!--
-**ShubhamMaskare12/ShubhamMaskare12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer and AI/ML enthusiast focused on building responsive React.js applications, analytical dashboards, and AI-integrated systems.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- JavaScript
+- HTML5 / CSS3
+- Tailwind CSS
+- Python
+- SQL
+- Power BI
+- Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Startup Evaluator Platform
+- HireSafe NLP System
+- Global Startup Analysis Dashboard
+- React UI Projects
+
+## Interests
+Frontend Development • Data Analytics • AI/ML • UI/UX • Startup Technology
+
+## Connect With Me
+- Email: maskareshubham@gmail.com
